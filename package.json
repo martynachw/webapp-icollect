@@ -1,0 +1,28 @@
+{
+  "name": "webapp-icollect",
+  "version": "1.0.0",
+  "description": "personal project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martynachw/webapp-icollect.git"
+  },
+  "author": "Martyna Chw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martynachw/webapp-icollect/issues"
+  },
+  "homepage": "https://github.com/martynachw/webapp-icollect#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.12.0"
+  },
+  "dependencies": {
+    "gulp-uglifycss": "^1.1.0"
+  }
+}
